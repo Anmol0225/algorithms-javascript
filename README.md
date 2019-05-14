@@ -1,2 +1,6 @@
 # algorithms-javascript
-Implementation of various algorithms written in JavaScript.
+Here is the list of algorthims present in the repository currently:
+
+1.  Frequency counter
+2.  Multiple pointers
+3.  Sliding window
